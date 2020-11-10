@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth1</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="output">Output</string>
+    <string name="connect">Connect</string>
+</resources>
